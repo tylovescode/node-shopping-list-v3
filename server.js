@@ -21,7 +21,7 @@ ShoppingList.create('peppers', 4);
 // adding some recipes to `Recipes` so there's something
 // to retrieve.
 Recipes.create(
-  'boiled white rice', ['1 cup white rice', '2 cups water', 'pinch of salt']);
+  'boiled white rice', ['1 cup white rice', '2 cups boiling water', 'pinch of salt']);
 Recipes.create(
   'milkshake', ['2 tbsp cocoa', '2 cups vanilla ice cream', '1 cup milk']);
 
